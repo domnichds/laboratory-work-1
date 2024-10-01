@@ -37,4 +37,5 @@ int main()
     else {
         cout << "Îøèáêà ââîäà!";
     }
+    system("Pause");
 }

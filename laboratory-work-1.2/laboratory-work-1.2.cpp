@@ -18,4 +18,5 @@ int main()
     else {
         cout << "Треугольник не существует";
     }
+    system("Pause");
 }
